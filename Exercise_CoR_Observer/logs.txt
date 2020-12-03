@@ -1,0 +1,4 @@
+Request made to /dashboard by non admin user
+Request made to /dashboard/nonExistingPage by admin user
+Request made to /dashboard by admin user
+Request made to /home by non admin user
